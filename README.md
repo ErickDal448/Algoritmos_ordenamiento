@@ -70,7 +70,7 @@ A continuación se presentan de manera ordenada los promedios de tiempo obtenido
 | **Permutation Sort** | **12** | 67.40007268 |
 
 ### Gráfica Resultante
-![Grafica resultante de tiempos](plot_comparativa_algoritmos.png)
+![Grafica resultante de tiempos](./Graficas/plot_comparativa_algoritmos.png)
 
 ---
 
