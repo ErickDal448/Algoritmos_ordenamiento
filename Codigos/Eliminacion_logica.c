@@ -61,7 +61,7 @@ int main(int argc, char ** argv){
 
         for(int num_test = 0; num_test < Media_experimentos; num_test++){
             
-            int *v = Leer_lista("datos.csv", k);
+            int *v = Leer_lista("../Datos/datos.csv", k);
             if (v == NULL) {
                 printf("Error al leer archivo para k=%d\n", k);
                 continue;

@@ -52,7 +52,7 @@ int main(int argc, char ** argv) {
         double menor_tiempo = 999999;
         double suma_tiempos = 0;
         for(int num_test = 0; num_test < Media_experimentos; num_test++){
-            Leer_lista("datos.csv", n);
+            Leer_lista("../Datos/datos.csv", n);
         
             double start = clock();
             ordenar(A, n);

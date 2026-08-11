@@ -43,7 +43,7 @@ int main(){
 
             int size = k;
             int size_s = size;
-            int *v = Leer_lista("datos.csv", size);
+            int *v = Leer_lista("../Datos/datos.csv", size);
             
             if (v == NULL) {
                 printf("Error al cargar datos para k=%d\n", k);

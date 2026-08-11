@@ -3,7 +3,7 @@
 #include <time.h>
 
 /* --- CONFIGURACIÓN --- */
-#define ARCHIVO_DATOS      "Datos/datos.csv"
+#define ARCHIVO_DATOS      "../Datos/datos.csv"
 #define TAM_MAX_LISTA      100001
 #define MEDIA_EXPERIMENTOS 30
 #define N_INICIO           1000
